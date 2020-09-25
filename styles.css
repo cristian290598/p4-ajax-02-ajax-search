@@ -1,0 +1,16 @@
+body{
+    background:url(imagenes/fondo.png ) no-repeat fixed center #333;
+    background-size: cover;
+}
+
+.form_create {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 220px;
+    color: royalblue;
+}
+
+.datos{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 220px;
+    color: royalblue;
+}
